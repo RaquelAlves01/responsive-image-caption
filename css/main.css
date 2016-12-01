@@ -29,3 +29,10 @@ h2 {
   width: 100%;
 }
 
+figcaption {
+  text-align: left;
+  background-color: #e2e2e2;
+  padding: 1rem;
+  padding-bottom: .5rem
+}
+
