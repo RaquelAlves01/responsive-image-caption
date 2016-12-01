@@ -16,3 +16,11 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body,
+.wrapper,
+.img-flex,
+h2 {
+  margin: 0;
+}
+
